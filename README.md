@@ -1,5 +1,5 @@
 # simple-shell
-This is a simple shell program written in C. The shell allows users to execute basic commands like `pwd`, `echo`, `cp`, and `mv`. 
+This is a simple shell program written in C. The shell allows users to execute basic commands like `pwd`, `echo`, `cp`, `mv`, and `exit`
 
 Here's how it works:
 
